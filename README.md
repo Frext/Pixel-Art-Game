@@ -47,7 +47,7 @@ https://github.com/user-attachments/assets/95298972-9b66-4b5e-aa20-50ec91af60dd
 
 * **Engine:** Unity (2021.3.9f1)
 * **Language:** C#
-* **Assets:** **[Pixel Adventure 1](https://assetstore.unity.com/packages/2d/characters/pixel-adventure-1-155360)**
+* **Assets:** [Pixel Adventure 1](https://assetstore.unity.com/packages/2d/characters/pixel-adventure-1-155360)
 
 ---
 
