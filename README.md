@@ -1,5 +1,8 @@
 # Quaxidia
 
+[![Unity Version](https://img.shields.io/badge/Unity-2021.3.9f1-blue.svg?style=flat&logo=unity)](https://unity.com/)
+[![Language](https://img.shields.io/badge/Language-C%23-green.svg?style=flat&logo=c-sharp)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+
 This is a Unity 2D platformer project featuring pixel-art graphics, smooth physics-based movement, and sticky-wall mechanics.
 
 ---
@@ -45,8 +48,8 @@ https://github.com/user-attachments/assets/95298972-9b66-4b5e-aa20-50ec91af60dd
 
 ## 🛠️ Built With
 
-* **Engine:** Unity (2021.3.9f1)
-* **Language:** C#
+* **Game Engine:** Unity (2021.3.9f1)
+* **Scripting Language:** C#
 * **Assets Used:**
   * [Pixel Adventure 1](https://assetstore.unity.com/packages/2d/characters/pixel-adventure-1-155360)
 
